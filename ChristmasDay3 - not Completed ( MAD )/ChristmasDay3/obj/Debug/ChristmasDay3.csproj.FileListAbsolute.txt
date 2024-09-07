@@ -1,0 +1,14 @@
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\bin\Debug\ChristmasDay3.exe.config
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\bin\Debug\ChristmasDay3.exe
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\bin\Debug\ChristmasDay3.pdb
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\obj\Debug\ChristmasDay3.csproj.AssemblyReference.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\obj\Debug\ChristmasDay3.csproj.CoreCompileInputs.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\obj\Debug\ChristmasDay3.exe
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3\ChristmasDay3\obj\Debug\ChristmasDay3.pdb
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\obj\Debug\ChristmasDay3.csproj.AssemblyReference.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\obj\Debug\ChristmasDay3.csproj.CoreCompileInputs.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\obj\Debug\ChristmasDay3.exe
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\obj\Debug\ChristmasDay3.pdb
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\bin\Debug\ChristmasDay3.exe.config
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\bin\Debug\ChristmasDay3.exe
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay3 - not Completed ( MAD )\ChristmasDay3\bin\Debug\ChristmasDay3.pdb

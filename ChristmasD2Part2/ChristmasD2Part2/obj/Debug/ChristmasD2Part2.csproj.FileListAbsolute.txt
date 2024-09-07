@@ -1,0 +1,2 @@
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasD2Part2\ChristmasD2Part2\obj\Debug\ChristmasD2Part2.csproj.AssemblyReference.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasD2Part2\ChristmasD2Part2\obj\Debug\ChristmasD2Part2.csproj.CoreCompileInputs.cache

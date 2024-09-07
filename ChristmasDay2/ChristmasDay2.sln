@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasDay2", "ChristmasDay2\ChristmasDay2.csproj", "{4226F2DF-E366-4E48-B60E-A8EFF7EFD2FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4226F2DF-E366-4E48-B60E-A8EFF7EFD2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4226F2DF-E366-4E48-B60E-A8EFF7EFD2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4226F2DF-E366-4E48-B60E-A8EFF7EFD2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4226F2DF-E366-4E48-B60E-A8EFF7EFD2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A13D41-90A6-45F1-9AB0-07AE31E02B47}
+	EndGlobalSection
+EndGlobal

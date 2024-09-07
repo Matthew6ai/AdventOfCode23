@@ -1,0 +1,7 @@
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\bin\Debug\ChristmasDay1.exe.config
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\bin\Debug\ChristmasDay1.exe
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\bin\Debug\ChristmasDay1.pdb
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\obj\Debug\ChristmasDay1.csproj.AssemblyReference.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\obj\Debug\ChristmasDay1.csproj.CoreCompileInputs.cache
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\obj\Debug\ChristmasDay1.exe
+C:\Users\M4tTheWs\Desktop\Vánoční Programatorsky kalendar\ChristmasDay1\ChristmasDay1\obj\Debug\ChristmasDay1.pdb
